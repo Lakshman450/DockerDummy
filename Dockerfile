@@ -1,4 +1,4 @@
-FROM https
+FROM httpd
 MAINTAINER name sai
 LABEL this is docker file
 EXPOSE 80
